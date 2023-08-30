@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "krlaa",
+  "repo": "container-nbjidu4",
+  "name": "krlaa",
+  "email": "kevindurantony@gmail.com",
+}
